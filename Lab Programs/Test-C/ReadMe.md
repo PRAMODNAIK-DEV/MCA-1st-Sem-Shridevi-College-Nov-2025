@@ -1,0 +1,1 @@
+TO RUn C FIle Use: gcc <file-name>.c -o <file-name>.exe
